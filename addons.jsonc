@@ -1,8 +1,1 @@
-{
-  "$schema": "https://chickensoft.games/schemas/addons.schema.json",
-  "name": "gdlibstring",
-  "description": "Common godot string utils",
-  "version": "0.0.0",
-  "cache": "../.addons",
-  "addons": {}
-}
+addons/gdlibstring/addons.jsonc
